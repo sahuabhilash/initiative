@@ -1,0 +1,10 @@
+Atmanirbhar:
+
+Learn git and install in the new System:
+Setup and learn React
+Redis
+Mongo
+Node.js
+Apache camel
+Kafka
+Apache spark
